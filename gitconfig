@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jackhodges32@hotmail.co.uk
+	name = Jack Hodges
